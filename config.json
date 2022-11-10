@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "name": "Gabriel",
+        "github": "gabriel-hsmiiller"
+    },
+    "playlists": {
+        "games": [
+            {
+                "title": "",
+                "url": "",
+                "thumb": ""
+            }
+        ],
+        "development": [
+            {
+                "title": "",
+                "url": "",
+                "thumb": ""
+            }
+        ]
+    }
+}
